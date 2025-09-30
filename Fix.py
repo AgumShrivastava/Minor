@@ -1,6 +1,6 @@
 import nbformat
 
-notebook_path = 'MinorModel.ipynb'
+notebook_path = 'MinorModel[1].ipynb'
 
 try:
     with open(notebook_path, 'r', encoding='utf-8') as f:
